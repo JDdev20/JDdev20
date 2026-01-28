@@ -4,7 +4,7 @@
   const jisus = {
     pronoums: "he" | "him",
     code: [],
-    tools: []
+    tools: [],
   }
 ```
 <!--
