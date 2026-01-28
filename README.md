@@ -3,8 +3,9 @@
 ```js
   const jisus = {
     pronoums: "he" | "him",
-    code: [],
-    tools: [],
+    code: [Javascript, Typescript, HTML, CSS, C++, C, Dart, PHP, Python],
+    tools: [AWS, Docker, Tailwind, React, Next, Nest, Node, Vue, Flutter],
+    database: [Postgres, Mongo, Redis],
   }
 ```
 <!--
