@@ -3,7 +3,7 @@
 ```js
   const jisus = {
     pronoums: "he" | "him",
-    code: []
+    code: [],
     tools: []
   }
 ```
