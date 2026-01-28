@@ -1,5 +1,12 @@
 ## Hi, I`m Jisus 👋
 
+```js
+  const jisus = {
+    pronoums: "he" | "him",
+    code: []
+    tools: []
+  }
+```
 <!--
 **JDdev20/JDdev20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
